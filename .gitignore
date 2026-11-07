@@ -1,3 +1,5 @@
 node_modules/
 app/out/
 *.tsbuildinfo
+vasa/audio/_cache/
+vasa/audio/stem_*.wav

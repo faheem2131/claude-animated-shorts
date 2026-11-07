@@ -12,7 +12,7 @@ const browserExecutable = process.env.BROWSER_EXE || "/opt/pw-browsers/chromium"
 const chromiumOptions = { gl: process.env.GL || "swangle" };
 const serveUrl = await bundle({ entryPoint: path.resolve(process.env.BRIDGE_ENTRY || "src/index.ts"), publicDir: path.resolve("public") });
 const inputProps = process.env.INPUT_PROPS ? JSON.parse(process.env.INPUT_PROPS) : {};
-const composition = await selectComposition({ serveUrl, id: "BridgeShort", inputProps, browserExecutable, chromiumOptions });
+const composition = await selectComposition({ serveUrl, id: process.env.COMP || "VasaShort", inputProps, browserExecutable, chromiumOptions });
 const onBrowserLog = (l) => { if (process.env.DEBUG_LOG || l.type === "error" || l.type === "warning") console.log(`[${l.type}]`, l.text.slice(0, 300)); };
 for (const f of frames.split(",").map(Number)) {
   const t0 = Date.now();
