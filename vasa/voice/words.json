@@ -1,0 +1,1052 @@
+[
+ {
+  "word": "Sweden",
+  "start": 0.0,
+  "end": 0.28
+ },
+ {
+  "word": "built",
+  "start": 0.28,
+  "end": 0.5
+ },
+ {
+  "word": "the",
+  "start": 0.5,
+  "end": 0.76
+ },
+ {
+  "word": "most",
+  "start": 0.76,
+  "end": 0.98
+ },
+ {
+  "word": "powerful",
+  "start": 0.98,
+  "end": 1.42
+ },
+ {
+  "word": "warship",
+  "start": 1.42,
+  "end": 2.08
+ },
+ {
+  "word": "in",
+  "start": 2.08,
+  "end": 2.22
+ },
+ {
+  "word": "the",
+  "start": 2.22,
+  "end": 2.34
+ },
+ {
+  "word": "world.",
+  "start": 2.34,
+  "end": 2.6
+ },
+ {
+  "word": "It",
+  "start": 3.16,
+  "end": 3.26
+ },
+ {
+  "word": "sailed",
+  "start": 3.26,
+  "end": 3.46
+ },
+ {
+  "word": "for",
+  "start": 3.46,
+  "end": 3.78
+ },
+ {
+  "word": "less",
+  "start": 3.78,
+  "end": 3.96
+ },
+ {
+  "word": "than",
+  "start": 3.96,
+  "end": 4.16
+ },
+ {
+  "word": "a",
+  "start": 4.16,
+  "end": 4.26
+ },
+ {
+  "word": "mile,",
+  "start": 4.26,
+  "end": 4.52
+ },
+ {
+  "word": "Stockholm",
+  "start": 4.78,
+  "end": 5.02
+ },
+ {
+  "word": "1628.",
+  "start": 5.02,
+  "end": 6.22
+ },
+ {
+  "word": "The",
+  "start": 6.92,
+  "end": 7.06
+ },
+ {
+  "word": "king",
+  "start": 7.06,
+  "end": 7.24
+ },
+ {
+  "word": "wanted",
+  "start": 7.24,
+  "end": 7.58
+ },
+ {
+  "word": "the",
+  "start": 7.58,
+  "end": 7.78
+ },
+ {
+  "word": "biggest",
+  "start": 7.78,
+  "end": 8.06
+ },
+ {
+  "word": "navy",
+  "start": 8.06,
+  "end": 8.36
+ },
+ {
+  "word": "on",
+  "start": 8.36,
+  "end": 8.7
+ },
+ {
+  "word": "the",
+  "start": 8.7,
+  "end": 8.84
+ },
+ {
+  "word": "Baltic,",
+  "start": 8.84,
+  "end": 9.1
+ },
+ {
+  "word": "and",
+  "start": 9.46,
+  "end": 9.54
+ },
+ {
+  "word": "the",
+  "start": 9.54,
+  "end": 9.7
+ },
+ {
+  "word": "Vasa",
+  "start": 9.7,
+  "end": 9.94
+ },
+ {
+  "word": "was",
+  "start": 9.94,
+  "end": 10.22
+ },
+ {
+  "word": "his",
+  "start": 10.22,
+  "end": 10.38
+ },
+ {
+  "word": "pride.",
+  "start": 10.38,
+  "end": 10.68
+ },
+ {
+  "word": "Six",
+  "start": 11.26,
+  "end": 11.4
+ },
+ {
+  "word": "to",
+  "start": 11.4,
+  "end": 11.62
+ },
+ {
+  "word": "four",
+  "start": 11.62,
+  "end": 11.84
+ },
+ {
+  "word": "cannons,",
+  "start": 11.84,
+  "end": 12.14
+ },
+ {
+  "word": "two",
+  "start": 12.52,
+  "end": 12.62
+ },
+ {
+  "word": "gun",
+  "start": 12.62,
+  "end": 12.82
+ },
+ {
+  "word": "decks,",
+  "start": 12.82,
+  "end": 13.1
+ },
+ {
+  "word": "and",
+  "start": 13.46,
+  "end": 13.56
+ },
+ {
+  "word": "enough",
+  "start": 13.56,
+  "end": 13.8
+ },
+ {
+  "word": "gold",
+  "start": 13.8,
+  "end": 14.12
+ },
+ {
+  "word": "paint",
+  "start": 14.12,
+  "end": 14.4
+ },
+ {
+  "word": "to",
+  "start": 14.4,
+  "end": 14.68
+ },
+ {
+  "word": "blind",
+  "start": 14.68,
+  "end": 14.84
+ },
+ {
+  "word": "the",
+  "start": 14.84,
+  "end": 15.16
+ },
+ {
+  "word": "enemy.",
+  "start": 15.16,
+  "end": 15.46
+ },
+ {
+  "word": "Thousands",
+  "start": 15.84,
+  "end": 16.1
+ },
+ {
+  "word": "watched",
+  "start": 16.1,
+  "end": 16.42
+ },
+ {
+  "word": "from",
+  "start": 16.42,
+  "end": 16.76
+ },
+ {
+  "word": "the",
+  "start": 16.76,
+  "end": 16.96
+ },
+ {
+  "word": "shore.",
+  "start": 16.96,
+  "end": 17.14
+ },
+ {
+  "word": "The",
+  "start": 17.68,
+  "end": 17.74
+ },
+ {
+  "word": "sails",
+  "start": 17.74,
+  "end": 17.92
+ },
+ {
+  "word": "went",
+  "start": 17.92,
+  "end": 18.3
+ },
+ {
+  "word": "up.",
+  "start": 18.3,
+  "end": 18.6
+ },
+ {
+  "word": "A",
+  "start": 19.16,
+  "end": 19.2
+ },
+ {
+  "word": "breeze",
+  "start": 19.2,
+  "end": 19.38
+ },
+ {
+  "word": "came",
+  "start": 19.38,
+  "end": 19.68
+ },
+ {
+  "word": "in.",
+  "start": 19.68,
+  "end": 20.0
+ },
+ {
+  "word": "The",
+  "start": 20.52,
+  "end": 20.56
+ },
+ {
+  "word": "ship",
+  "start": 20.56,
+  "end": 20.76
+ },
+ {
+  "word": "leaned",
+  "start": 20.76,
+  "end": 20.96
+ },
+ {
+  "word": "a",
+  "start": 20.96,
+  "end": 21.22
+ },
+ {
+  "word": "little.",
+  "start": 21.22,
+  "end": 21.44
+ },
+ {
+  "word": "Then",
+  "start": 21.98,
+  "end": 22.08
+ },
+ {
+  "word": "it",
+  "start": 22.08,
+  "end": 22.24
+ },
+ {
+  "word": "leaned",
+  "start": 22.24,
+  "end": 22.46
+ },
+ {
+  "word": "a",
+  "start": 22.46,
+  "end": 22.74
+ },
+ {
+  "word": "lot.",
+  "start": 22.74,
+  "end": 22.92
+ },
+ {
+  "word": "Water",
+  "start": 23.5,
+  "end": 23.5
+ },
+ {
+  "word": "poured",
+  "start": 23.5,
+  "end": 23.78
+ },
+ {
+  "word": "in",
+  "start": 23.78,
+  "end": 24.08
+ },
+ {
+  "word": "through",
+  "start": 24.08,
+  "end": 24.28
+ },
+ {
+  "word": "the",
+  "start": 24.28,
+  "end": 24.48
+ },
+ {
+  "word": "open",
+  "start": 24.48,
+  "end": 24.78
+ },
+ {
+  "word": "gun",
+  "start": 24.78,
+  "end": 25.12
+ },
+ {
+  "word": "ports.",
+  "start": 25.12,
+  "end": 25.42
+ },
+ {
+  "word": "The",
+  "start": 26.18,
+  "end": 26.28
+ },
+ {
+  "word": "Vasa",
+  "start": 26.28,
+  "end": 26.64
+ },
+ {
+  "word": "went",
+  "start": 26.64,
+  "end": 26.84
+ },
+ {
+  "word": "straight",
+  "start": 26.84,
+  "end": 27.14
+ },
+ {
+  "word": "to",
+  "start": 27.14,
+  "end": 27.42
+ },
+ {
+  "word": "the",
+  "start": 27.42,
+  "end": 27.5
+ },
+ {
+  "word": "bottom.",
+  "start": 27.5,
+  "end": 27.7
+ },
+ {
+  "word": "Luckily,",
+  "start": 28.1,
+  "end": 28.3
+ },
+ {
+  "word": "nobody",
+  "start": 28.3,
+  "end": 28.86
+ },
+ {
+  "word": "had",
+  "start": 28.86,
+  "end": 29.12
+ },
+ {
+  "word": "to",
+  "start": 29.12,
+  "end": 29.28
+ },
+ {
+  "word": "explain",
+  "start": 29.28,
+  "end": 29.6
+ },
+ {
+  "word": "it",
+  "start": 29.6,
+  "end": 29.88
+ },
+ {
+  "word": "to",
+  "start": 29.88,
+  "end": 30.04
+ },
+ {
+  "word": "the",
+  "start": 30.04,
+  "end": 30.16
+ },
+ {
+  "word": "enemy.",
+  "start": 30.16,
+  "end": 30.48
+ },
+ {
+  "word": "Unluckily,",
+  "start": 30.96,
+  "end": 31.44
+ },
+ {
+  "word": "they",
+  "start": 31.74,
+  "end": 31.86
+ },
+ {
+  "word": "had",
+  "start": 31.86,
+  "end": 32.02
+ },
+ {
+  "word": "to",
+  "start": 32.02,
+  "end": 32.16
+ },
+ {
+  "word": "explain",
+  "start": 32.16,
+  "end": 32.48
+ },
+ {
+  "word": "it",
+  "start": 32.48,
+  "end": 32.74
+ },
+ {
+  "word": "to",
+  "start": 32.74,
+  "end": 32.92
+ },
+ {
+  "word": "the",
+  "start": 32.92,
+  "end": 33.02
+ },
+ {
+  "word": "king.",
+  "start": 33.02,
+  "end": 33.2
+ },
+ {
+  "word": "Here",
+  "start": 33.46,
+  "end": 33.6
+ },
+ {
+  "word": "is",
+  "start": 33.6,
+  "end": 33.78
+ },
+ {
+  "word": "the",
+  "start": 33.78,
+  "end": 33.88
+ },
+ {
+  "word": "problem.",
+  "start": 33.88,
+  "end": 34.16
+ },
+ {
+  "word": "Tall",
+  "start": 34.56,
+  "end": 34.74
+ },
+ {
+  "word": "and",
+  "start": 34.74,
+  "end": 35.02
+ },
+ {
+  "word": "heavy",
+  "start": 35.02,
+  "end": 35.32
+ },
+ {
+  "word": "up",
+  "start": 35.32,
+  "end": 35.46
+ },
+ {
+  "word": "top,",
+  "start": 35.46,
+  "end": 35.68
+ },
+ {
+  "word": "light",
+  "start": 35.98,
+  "end": 36.06
+ },
+ {
+  "word": "down",
+  "start": 36.06,
+  "end": 36.36
+ },
+ {
+  "word": "low.",
+  "start": 36.36,
+  "end": 36.58
+ },
+ {
+  "word": "It",
+  "start": 37.1,
+  "end": 37.18
+ },
+ {
+  "word": "is",
+  "start": 37.18,
+  "end": 37.28
+ },
+ {
+  "word": "the",
+  "start": 37.28,
+  "end": 37.44
+ },
+ {
+  "word": "same",
+  "start": 37.44,
+  "end": 37.68
+ },
+ {
+  "word": "reason",
+  "start": 37.68,
+  "end": 38.0
+ },
+ {
+  "word": "you",
+  "start": 38.0,
+  "end": 38.3
+ },
+ {
+  "word": "should",
+  "start": 38.3,
+  "end": 38.48
+ },
+ {
+  "word": "never",
+  "start": 38.48,
+  "end": 38.7
+ },
+ {
+  "word": "stand",
+  "start": 38.7,
+  "end": 39.04
+ },
+ {
+  "word": "up",
+  "start": 39.04,
+  "end": 39.24
+ },
+ {
+  "word": "in",
+  "start": 39.24,
+  "end": 39.46
+ },
+ {
+  "word": "a",
+  "start": 39.46,
+  "end": 39.54
+ },
+ {
+  "word": "canoe.",
+  "start": 39.54,
+  "end": 39.7
+ },
+ {
+  "word": "They",
+  "start": 40.34,
+  "end": 40.5
+ },
+ {
+  "word": "had",
+  "start": 40.5,
+  "end": 40.66
+ },
+ {
+  "word": "even",
+  "start": 40.66,
+  "end": 41.0
+ },
+ {
+  "word": "tested",
+  "start": 41.0,
+  "end": 41.26
+ },
+ {
+  "word": "it",
+  "start": 41.26,
+  "end": 41.6
+ },
+ {
+  "word": "at",
+  "start": 41.6,
+  "end": 41.8
+ },
+ {
+  "word": "the",
+  "start": 41.8,
+  "end": 41.96
+ },
+ {
+  "word": "dock.",
+  "start": 41.96,
+  "end": 42.1
+ },
+ {
+  "word": "30",
+  "start": 42.42,
+  "end": 42.62
+ },
+ {
+  "word": "men",
+  "start": 42.62,
+  "end": 42.8
+ },
+ {
+  "word": "ran",
+  "start": 42.8,
+  "end": 43.02
+ },
+ {
+  "word": "across",
+  "start": 43.02,
+  "end": 43.34
+ },
+ {
+  "word": "the",
+  "start": 43.34,
+  "end": 43.64
+ },
+ {
+  "word": "deck,",
+  "start": 43.64,
+  "end": 43.82
+ },
+ {
+  "word": "and",
+  "start": 44.18,
+  "end": 44.28
+ },
+ {
+  "word": "the",
+  "start": 44.28,
+  "end": 44.44
+ },
+ {
+  "word": "ship",
+  "start": 44.44,
+  "end": 44.64
+ },
+ {
+  "word": "rolled",
+  "start": 44.64,
+  "end": 44.92
+ },
+ {
+  "word": "so",
+  "start": 44.92,
+  "end": 45.3
+ },
+ {
+  "word": "badly",
+  "start": 45.3,
+  "end": 45.62
+ },
+ {
+  "word": "they",
+  "start": 45.62,
+  "end": 45.92
+ },
+ {
+  "word": "stopped.",
+  "start": 45.92,
+  "end": 46.16
+ },
+ {
+  "word": "Nobody",
+  "start": 46.74,
+  "end": 47.1
+ },
+ {
+  "word": "wanted",
+  "start": 47.1,
+  "end": 47.42
+ },
+ {
+  "word": "to",
+  "start": 47.42,
+  "end": 47.76
+ },
+ {
+  "word": "tell",
+  "start": 47.76,
+  "end": 47.94
+ },
+ {
+  "word": "the",
+  "start": 47.94,
+  "end": 48.16
+ },
+ {
+  "word": "king.",
+  "start": 48.16,
+  "end": 48.38
+ },
+ {
+  "word": "The",
+  "start": 48.68,
+  "end": 48.72
+ },
+ {
+  "word": "inquiry",
+  "start": 48.72,
+  "end": 48.96
+ },
+ {
+  "word": "found",
+  "start": 48.96,
+  "end": 49.48
+ },
+ {
+  "word": "no",
+  "start": 49.48,
+  "end": 49.82
+ },
+ {
+  "word": "one",
+  "start": 49.82,
+  "end": 50.0
+ },
+ {
+  "word": "to",
+  "start": 50.0,
+  "end": 50.2
+ },
+ {
+  "word": "blame.",
+  "start": 50.2,
+  "end": 50.36
+ },
+ {
+  "word": "Everyone",
+  "start": 50.9,
+  "end": 51.18
+ },
+ {
+  "word": "responsible",
+  "start": 51.18,
+  "end": 51.68
+ },
+ {
+  "word": "had",
+  "start": 51.68,
+  "end": 52.22
+ },
+ {
+  "word": "a",
+  "start": 52.22,
+  "end": 52.34
+ },
+ {
+  "word": "very",
+  "start": 52.34,
+  "end": 52.56
+ },
+ {
+  "word": "good",
+  "start": 52.56,
+  "end": 52.8
+ },
+ {
+  "word": "reason.",
+  "start": 52.8,
+  "end": 53.18
+ },
+ {
+  "word": "The",
+  "start": 53.56,
+  "end": 53.58
+ },
+ {
+  "word": "Vasa",
+  "start": 53.58,
+  "end": 53.86
+ },
+ {
+  "word": "sat",
+  "start": 53.86,
+  "end": 54.12
+ },
+ {
+  "word": "in",
+  "start": 54.12,
+  "end": 54.36
+ },
+ {
+  "word": "the",
+  "start": 54.36,
+  "end": 54.44
+ },
+ {
+  "word": "mud",
+  "start": 54.44,
+  "end": 54.58
+ },
+ {
+  "word": "for",
+  "start": 54.58,
+  "end": 54.84
+ },
+ {
+  "word": "333",
+  "start": 54.84,
+  "end": 55.52
+ },
+ {
+  "word": "years.",
+  "start": 55.52,
+  "end": 56.62
+ },
+ {
+  "word": "Then",
+  "start": 56.62,
+  "end": 57.32
+ },
+ {
+  "word": "it",
+  "start": 57.32,
+  "end": 57.48
+ },
+ {
+  "word": "was",
+  "start": 57.48,
+  "end": 57.66
+ },
+ {
+  "word": "lifted",
+  "start": 57.66,
+  "end": 57.96
+ },
+ {
+  "word": "out,",
+  "start": 57.96,
+  "end": 58.3
+ },
+ {
+  "word": "and",
+  "start": 58.64,
+  "end": 58.76
+ },
+ {
+  "word": "it",
+  "start": 58.76,
+  "end": 58.88
+ },
+ {
+  "word": "turned",
+  "start": 58.88,
+  "end": 59.16
+ },
+ {
+  "word": "out",
+  "start": 59.16,
+  "end": 59.42
+ },
+ {
+  "word": "to",
+  "start": 59.42,
+  "end": 59.66
+ },
+ {
+  "word": "be",
+  "start": 59.66,
+  "end": 59.8
+ },
+ {
+  "word": "almost",
+  "start": 59.8,
+  "end": 60.12
+ },
+ {
+  "word": "perfect.",
+  "start": 60.12,
+  "end": 60.58
+ },
+ {
+  "word": "It",
+  "start": 61.28,
+  "end": 61.4
+ },
+ {
+  "word": "sailed",
+  "start": 61.4,
+  "end": 61.64
+ },
+ {
+  "word": "for",
+  "start": 61.64,
+  "end": 61.96
+ },
+ {
+  "word": "less",
+  "start": 61.96,
+  "end": 62.14
+ },
+ {
+  "word": "than",
+  "start": 62.14,
+  "end": 62.36
+ },
+ {
+  "word": "a",
+  "start": 62.36,
+  "end": 62.44
+ },
+ {
+  "word": "mile,",
+  "start": 62.44,
+  "end": 62.68
+ },
+ {
+  "word": "and",
+  "start": 63.02,
+  "end": 63.12
+ },
+ {
+  "word": "people",
+  "start": 63.12,
+  "end": 63.4
+ },
+ {
+  "word": "have",
+  "start": 63.4,
+  "end": 63.62
+ },
+ {
+  "word": "been",
+  "start": 63.62,
+  "end": 63.78
+ },
+ {
+  "word": "coming",
+  "start": 63.78,
+  "end": 64.0
+ },
+ {
+  "word": "to",
+  "start": 64.0,
+  "end": 64.26
+ },
+ {
+  "word": "see",
+  "start": 64.26,
+  "end": 64.46
+ },
+ {
+  "word": "it",
+  "start": 64.46,
+  "end": 64.64
+ },
+ {
+  "word": "ever",
+  "start": 64.64,
+  "end": 64.88
+ },
+ {
+  "word": "since.",
+  "start": 64.88,
+  "end": 65.16
+ }
+]
